@@ -1,8 +1,9 @@
 # gitHubSearch
 This is a Web App created using React for FrontEnd and Java SpringBoot for BackEnd
+
 Steps for setting up:
 1) clone the repository
-2) Open the server folder within the downloaded folder with Java IDE, eg Intellij
+2) open the server folder within the downloaded folder with Java IDE, eg Intellij
 3) go to \src\main\java\com\example\GitHubSearch right-click run GitHubSearchApplication.java
 4) open the client folder within the downloaded folder with Visual Studio Code
 5) in the VSC terminal, type 'npm i'
@@ -11,6 +12,7 @@ Steps for setting up:
 You may now type a name on the input box to search for users in GitHub.
 
 Important Note:
+
 Please allow 1 min interval for each search attempt as only 10 request is allowed per min. This is the limit set for the API.
 You may refer to https://docs.github.com/en/rest/search#rate-limit for more details.
 
