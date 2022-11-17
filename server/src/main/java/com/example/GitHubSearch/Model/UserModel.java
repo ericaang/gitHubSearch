@@ -1,6 +1,5 @@
 package com.example.GitHubSearch.Model;
-import java.util.ArrayList;
-import java.util.List;
+
 public class UserModel {
 
     public UserModel() {}
