@@ -9,3 +9,9 @@ Steps for setting up:
 6) then type npm start and wait for the page to load on the browser
 
 You may now type a name on the input box to search for users in GitHub.
+
+Important Note:
+Please allow 1 min interval for each search attempt as only 10 request is allowed per min. This is the limit set for the API.
+You may refer to https://docs.github.com/en/rest/search#rate-limit for more details.
+
+If you encounter any error, simply wait for a minute before attempting the search again.
