@@ -1,0 +1,13 @@
+
+.App {
+  text-align: center;
+}
+
+
+
+.mainForm{
+  display: flex;
+  font-size: large;
+  width: 100%;
+}
+
